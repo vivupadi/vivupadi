@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vivupadi
-- 👀 I’m interested in Machine Learning, Deep Learning and FPGA based projects.
-- 🌱 I’m currently learning Masters Mechatronics and developing new skills to work with AI and FPGA devices
+- 👀 I’m interested in Data Analytics, Data Science, Machine Learning, Deep Learning and FPGA-based projects.
+- 🌱 I did Masters's in Mechatronics with a major focus being ML and Data Science related projects. I am developing new skills to deploy ML models on cloud and edge-based devices.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.linkedin.com/in/vivek-padayattil
 
