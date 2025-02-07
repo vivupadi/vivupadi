@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @vivupadi. Currently working as a Data Scientist!
-- 👀 I’m interested in 
-- 🌱 I did Masters's in Mechatronics with a major focus being ML and Data Science related projects. I am developing new skills to deploy ML models on cloud and edge-based devices.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for new oppurtunities as Data Scientist/Machine Learning Engineer/AI Engineer/MLOps
 - 📫 How to reach me www.linkedin.com/in/vivek-padayattil
 
 <!---
