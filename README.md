@@ -3,7 +3,7 @@
 - Preparing for CKAD Certification (Linux Foundations)
 - 💞️ I’m looking for new oppurtunities in DS/ML/DevOps domain
 - 📫 How to reach me www.linkedin.com/in/vivek-padayattil
-- Check out my website: vivekpadayattil.com
+- Check out my website: www.vivekpadayattil.com
 
 <!---
 vivupadi/vivupadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
