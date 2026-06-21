@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @vivupadi. Currently working as a Data Scientist! Transitioning into MLOps roles (Love to work in DS + DevOps Environment)
-- Azure Certified Data Scientist(DP-100)/ Prepping up for Azure MLOps (AI-300)
+- Azure Certified Data Scientist(DP-100)
 - Certified Kubernetes Application Developer (CKAD - Linux Foundations)
+- Azure MLOps prep
 - 💞️ I’m looking for new oppurtunities in DS/MLOps domain
 - 📫 How to reach me www.linkedin.com/in/vivek-padayattil
 - Check out my website: www.vivekpadayattil.com
